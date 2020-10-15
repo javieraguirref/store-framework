@@ -13,7 +13,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "**Hello, World2!**",
+      "text": "**Hello, World3!**",
       "textPosition": "RIGHT"
     }
   },
