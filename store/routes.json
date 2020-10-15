@@ -1,8 +1,5 @@
 {
   "store.custom#about-us": {
-    "props": {
     "path": "/about-us"
-    }
+  }
 }
-}
-
