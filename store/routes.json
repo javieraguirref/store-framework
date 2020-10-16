@@ -6,11 +6,8 @@
 
   "store.custom#landing": {
     "path": "/landing"
-  },
-
-
-  "store.custom#borrable": {
-    "path": "/borrable"
   }
+
+  
 }
 
