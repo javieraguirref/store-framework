@@ -22,7 +22,7 @@
       }
     }
 
-//mobile
+
 ,
 "header-row#main-mobile": {
     "children": [
@@ -47,7 +47,7 @@
     }
   }
 
-  //login
+  
 ,
   "login":{
     "props": {
@@ -62,7 +62,7 @@
     }
   }
 
-  //rich text
+  
 ,
   "rich-text#header": {
     "props": {
