@@ -5,7 +5,7 @@
         "header-layout.mobile"
       ]
     },
-    "header.full": {
+    "header.full": { 
       "blocks": [
         "header-layout.desktop",
         "header-layout.mobile"
